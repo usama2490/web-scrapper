@@ -1,0 +1,10 @@
+Libraries Used:-
+Requests (Opensource python library to get webcontent)
+BeautifulSoup
+
+
+I have 2 options for choosing a library in order  to use for web scrapping and i.e beutifulsoup4 and scrapy. Scrapy is a bit more complex and more powerfull for scrapping and should only be used for advanced purpose.
+
+I chose beautifulsoup4 because it is easy and coding in this library is much easir and efficient than scrapy.
+
+beautifulsoup4 is a best choice for begineers who wants to get hands-on python web scrapping and also beutifulshoup4 has powerfull parser from which we can easily extract the required data from web.

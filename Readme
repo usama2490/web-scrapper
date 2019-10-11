@@ -1,0 +1,30 @@
+
+Requests is an open source python library which is used to get a web content from any website
+Beautiful Soup is a Python library for pulling required data out of HTML and XML files.
+
+1) Pre-Requisite
+
+ >> Ubuntu 18.04 with pip or pip3 installed
+
+2) Installation of beautifulsoup4 and requests library
+
+>>> sudo apt-get install python-bs4 (For python2.7)
+   or
+>>> sudo apt-get install python3-bs4 (For python3)
+
+>>> pip install requests (For python2.7)
+    or
+>>> pip3 install requests (For python3)
+
+>>> pip install beautifullsoup4 (For python2.7)
+   or
+>>> pip3 install beautifulsoup4 (For python3)
+
+>>> easy_install beautifulsoup4
+
+3) Making and executing of web scrapping python file i.e in my case web.py
+
+I have used python3 for writing a code to extract an html data from an artical
+
+>>> sudo python3 web.py (for execution)
+
